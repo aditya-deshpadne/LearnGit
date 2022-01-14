@@ -1,3 +1,6 @@
 Hello Git.. testing git 
 
 Testing from b2 branch
+
+
+updated file from b1
